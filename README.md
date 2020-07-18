@@ -9,7 +9,7 @@ You need to be have an Darbird account to use this package. If you do not have o
 
 Require the package with composer.
 ``` bash
-$ composer require therealSMAT/laravel-ebulksms
+$ composer require darbird/darbirdsms
 ```
 You might need to add `Darbird\Darbirdsms\DarbirdServiceProvider,` to the providers array `config/app.php` if your laravel version is less than 5.5.
 
